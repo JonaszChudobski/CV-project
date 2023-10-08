@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function CurriculumLayout() {
+export default function LoginLayout({ children }) {
   return (
     <>
       {children}

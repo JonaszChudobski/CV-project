@@ -3,5 +3,5 @@ export const metadata = {
 };
 
 export default function Login() {
-  <h1>Login Page</h1>;
+  return <h1>Login Page</h1>;
 }
